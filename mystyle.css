@@ -1,0 +1,12 @@
+body{ background-color: lightblue;}
+h1{color:navy ;
+margin-left: 20px;}
+#pop{text-align: center;
+color: red;}
+.cat{ text-align: right;
+color: rgb(7, 139, 0);}
+.dog{ font-weight: 16px;
+font-size: 36px;}
+*{ font-family: sans-serif;
+text-decoration: underline;
+font-style: oblique;}
